@@ -13,6 +13,7 @@
 		7D19F2E11DE9B2B700EAD2ED /* Notification_Learn.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7D19F2DF1DE9B2B700EAD2ED /* Notification_Learn.xcdatamodeld */; };
 		7D19F2E31DE9B2B700EAD2ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D19F2E21DE9B2B700EAD2ED /* Assets.xcassets */; };
 		7D19F2E61DE9B2B700EAD2ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D19F2E41DE9B2B700EAD2ED /* LaunchScreen.storyboard */; };
+		7D19F2EE1DE9BA3700EAD2ED /* rick_grimes.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7D19F2ED1DE9BA3700EAD2ED /* rick_grimes.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7D19F2E21DE9B2B700EAD2ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D19F2E51DE9B2B700EAD2ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D19F2E71DE9B2B700EAD2ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D19F2ED1DE9BA3700EAD2ED /* rick_grimes.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = rick_grimes.gif; path = ../rick_grimes.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				7D19F2E41DE9B2B700EAD2ED /* LaunchScreen.storyboard */,
 				7D19F2E71DE9B2B700EAD2ED /* Info.plist */,
 				7D19F2DF1DE9B2B700EAD2ED /* Notification_Learn.xcdatamodeld */,
+				7D19F2ED1DE9BA3700EAD2ED /* rick_grimes.gif */,
 			);
 			path = "Notification Learn";
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			files = (
 				7D19F2E61DE9B2B700EAD2ED /* LaunchScreen.storyboard in Resources */,
 				7D19F2E31DE9B2B700EAD2ED /* Assets.xcassets in Resources */,
+				7D19F2EE1DE9BA3700EAD2ED /* rick_grimes.gif in Resources */,
 				7D19F2DE1DE9B2B700EAD2ED /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
